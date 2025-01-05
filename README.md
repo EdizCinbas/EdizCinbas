@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Ediz</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Maple and [redacted]](https://github.com/EdizCinbas/maple)
+- 🔭 I’m currently working on [Maple](https://github.com/EdizCinbas/maple) and \[redacted\]
 
-- 👨‍💻 All of my projects are available at [https://github.com/EdizCinbas](https://github.com/EdizCinbas)
+- 👨‍💻 Most of my projects are available at [https://github.com/EdizCinbas](https://github.com/EdizCinbas)
 
 - 💬 I'm great with **Java - Spring, Python, C**
 
-- 📫 How to reach me **oecinbas@gmail.com**
+- 📫 You can reach me through **oecinbas@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/EdizCinbas/CV/blob/main/Ediz_CV.pdf](https://github.com/EdizCinbas/CV/blob/main/Ediz_CV.pdf)
+- 📄 Read about my experiences [here]([https://github.com/EdizCinbas/CV/blob/main/Ediz_CV.pdf](https://github.com/EdizCinbas/EdizCinbas/blob/main/Ediz_CV.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
