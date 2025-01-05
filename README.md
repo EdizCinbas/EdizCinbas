@@ -9,7 +9,7 @@
 
 - 📫 You can reach me through **oecinbas@gmail.com**
 
-- 📄 Read about my experiences [here] ([https://github.com/EdizCinbas/CV/blob/main/Ediz_CV.pdf](https://github.com/EdizCinbas/EdizCinbas/blob/main/Ediz_CV.pdf))
+- 📄 Read about my experiences [here](https://github.com/EdizCinbas/EdizCinbas/blob/main/Ediz_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
