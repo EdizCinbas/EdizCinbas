@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center">🌎 London, United Kingdom</p>
 
-- 🔭 I’m currently working on a AI Racing Simulator for IBM (currently private)
+- 🔭 I’m currently working on a [AI Racing Simulator for IBM](https://github.com/EdizCinbas/ExMotu)
 
 - 👨‍💻 Most of my projects are available at [https://github.com/EdizCinbas](https://github.com/EdizCinbas)
 
